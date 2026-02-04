@@ -43,3 +43,8 @@ GROQ_API_KEY=your_api_key_here
 python your_script_name.py
 ```
 
+## Chatbot UI
+
+
+<img width="1362" height="787" alt="image" src="https://github.com/user-attachments/assets/ffea1a5c-24d9-4615-851b-0a61ca2cb2a3" />
+
